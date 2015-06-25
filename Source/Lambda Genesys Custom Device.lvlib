@@ -26,4 +26,5 @@
 	<Item Name="Shared" Type="Folder">
 		<Item Name="Lambda Genesys Device Properties.vi" Type="VI" URL="../Lambda Genesys Device Properties.vi"/>
 	</Item>
+	<Item Name="Custom Device Lambda Genesys_NI.xml" Type="Document" URL="../Custom Device Lambda Genesys_NI.xml"/>
 </Library>
